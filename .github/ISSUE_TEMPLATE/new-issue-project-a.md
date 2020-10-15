@@ -6,7 +6,7 @@ labels: project_a
 assignees: mchelen-gov
 ---
 
-# Request the something test
+# Request something
 
 ## What this form is for
 Use this template to request something
