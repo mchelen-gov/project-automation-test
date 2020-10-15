@@ -26,3 +26,4 @@ jobs:
         contains(github.event.issue.labels.*.name, 'project_b')
       with:
         project: 'https://github.com/mchelen-gov/project-automation-test/projects/2'
+        column_name: 'Todo'
