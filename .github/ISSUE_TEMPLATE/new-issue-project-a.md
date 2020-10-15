@@ -1,5 +1,5 @@
 ---
-name: Some Sample - Request Template
+name: New Issue - Project A
 about: To request doing something
 title: Sample Request for [Team]
 labels: project_a
