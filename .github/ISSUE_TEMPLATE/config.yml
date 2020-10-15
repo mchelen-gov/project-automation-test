@@ -1,4 +1,4 @@
 contact_links:
   - name: Feature Request
     about: Request a new feature
-    url: https://github.com/mchelen-gov/project-automation-test/issues/new?template=FEATURE_REQUEST.md&projects=project-automation-test%2Fproject_a%2F1
+    url: https://github.com/mchelen-gov/project-automation-test/issues/new?template=sample-issue-foo.md&projects=mchelen-gov%2project-automation-test%2Fproject_a%2F1
