@@ -1,4 +1,4 @@
 contact_links:
   - name: Feature Request
     about: Request a new feature
-    url: https://github.com/Narigo/some-project/issues/new?template=FEATURE_REQUEST.md&projects=Narigo%2Fsome-project%2F1&labels=%3Azap%3A%20new
+    url: https://github.com/mchelen-gov/project-automation-test/issues/new?template=FEATURE_REQUEST.md&projects=project-automation-test%2Fproject_a%2F1
