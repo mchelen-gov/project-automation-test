@@ -1,4 +1,8 @@
-# project-bot-test
+# project automation tests
+
+ideal workflow:
+- issue is created with label "project_a"
+- issue is automatically added to "Project A"
 
 
 
