@@ -4,6 +4,7 @@ about: To request doing something
 title: Sample Request for [Team]
 labels: project_a
 assignees: mchelen-gov
+projects: mchelen-gov/project-automation-test/projects/1
 
 ---
 
