@@ -1,4 +1,4 @@
-name: Auto Assign to Project(s)
+name: Assign to One Project
 
 on:
   issues:
